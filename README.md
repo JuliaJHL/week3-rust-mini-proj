@@ -1,5 +1,5 @@
 # build different list with Rust
-In this project, I followed the instructions on this [web page](https://rust-unofficial.github.io/too-many-lists/index.html) and wrote four different kinds of linked lists in rust:
+In this project, I wrote four different kinds of linked lists in rust:
 1. A Bad Singly-Linked Stack
 2. An Ok Singly-Linked Stack
 3. A Persistent Singly-Linked Stack
@@ -16,3 +16,4 @@ key words: `std::mem`, `std::rc::Rc`, `std::cell::RefCell`, `std::cell::Ref` <br
 ## References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+* [rust-too-many-lists](https://rust-unofficial.github.io/too-many-lists/index.html)
