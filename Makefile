@@ -15,10 +15,7 @@ lint:
 test:
 	cargo test --quiet
 
-run:
-	cargo run
-
 release:
 	cargo build --release
 
-all: format lint test run
+all: format lint test

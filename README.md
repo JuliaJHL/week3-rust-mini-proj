@@ -4,3 +4,4 @@ A good starting point for a new Rust project
 ## References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+* [rust-too-man-lists](https://rust-unofficial.github.io/too-many-lists/index.html)
